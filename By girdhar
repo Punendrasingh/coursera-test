@@ -3,13 +3,7 @@
 
 <html>
 <head>
-<style>
-p{
-font-family:times;
-background-color:pink;
-}
-
-</style>
+<link rel=stylesheet href=obj.css>
 </head>
 <body>
 
