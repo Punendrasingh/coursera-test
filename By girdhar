@@ -3,7 +3,7 @@
 
 <html>
 <head>
-<link rel=stylesheet href=obj.css>
+<link rel=stylesheet href="/obj.css">
 </head>
 <body>
 <ol>
