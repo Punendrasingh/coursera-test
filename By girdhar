@@ -6,7 +6,9 @@
 <style>
 p{
 font-family:times;
+background-color:pink;
 }
+
 </style>
 </head>
 <body>
