@@ -2,10 +2,16 @@
 
 
 <html>
-<head><title> lets check it out</title>  </head>
+<head>
+<style>
+p{
+font-family:times;
+}
+</style>
+</head>
 <body>
 
-<p style"color:red;"> Breaking News </p>
+<p class=p> Breaking News </p>
 
 </body>
 </html>
